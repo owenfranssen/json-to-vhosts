@@ -1,0 +1,10 @@
+{
+  "domains": [
+    {
+      "name": "domain.com",
+      "folder": "foldername",
+      "username": "username",
+      "password": "password"
+    }
+  ]
+}
